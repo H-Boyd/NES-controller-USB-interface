@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ProMicro")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Pro Micro/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name "NES Port")(type "KiCad")(uri "${KIPRJMOD}/Libraries/NES Port/Footprint/NES Port.pretty/NES Port.kicad_sym")(options "")(descr ""))
+)
