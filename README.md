@@ -16,13 +16,18 @@ The NES port can be found [here](https://www.zedlabz.com/products/controller-con
 ## To-Do
 
 - [x] Create port footprint from technical drawing.
-- [ ] Create port 3D model from technical drawing.
+- [x] Create port 3D model from technical drawing.
 - [ ] design Circuit diagram.
 - [ ] Write code.
 - [ ] design PCB.
 - [ ] design housing.
 - [ ] Assemble PCB and housing.
 
+## keep In mind.
+
+It requires quite a bit of force to remove the nes controller from the port,
+this should influence the design of the housing, as to not add strain to the
+solder joins or the pcb.
 
 
 # Reference
